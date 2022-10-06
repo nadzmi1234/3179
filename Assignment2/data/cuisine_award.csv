@@ -1,0 +1,325 @@
+Cuisine,Award,value
+Modern Cuisine,1 MICHELIN Star,920
+Modern Cuisine,2 MICHELIN Stars,87
+Modern Cuisine,3 MICHELIN Stars,23
+Modern Cuisine,All,1030
+Creative,1 MICHELIN Star,498
+Creative,2 MICHELIN Stars,186
+Creative,3 MICHELIN Stars,52
+Creative,All,736
+Classic Cuisine,1 MICHELIN Star,119
+Classic Cuisine,2 MICHELIN Stars,21
+Classic Cuisine,3 MICHELIN Stars,3
+Classic Cuisine,All,143
+Contemporary,1 MICHELIN Star,94
+Contemporary,2 MICHELIN Stars,16
+Contemporary,3 MICHELIN Stars,5
+Contemporary,All,115
+Modern French,1 MICHELIN Star,95
+Modern French,2 MICHELIN Stars,16
+Modern French,3 MICHELIN Stars,2
+Modern French,All,113
+Mediterranean Cuisine,1 MICHELIN Star,79
+Mediterranean Cuisine,2 MICHELIN Stars,8
+Mediterranean Cuisine,3 MICHELIN Stars,2
+Mediterranean Cuisine,All,89
+Market Cuisine,1 MICHELIN Star,59
+Market Cuisine,2 MICHELIN Stars,6
+Market Cuisine,3 MICHELIN Stars,1
+Market Cuisine,All,66
+Classic French,1 MICHELIN Star,43
+Classic French,2 MICHELIN Stars,12
+Classic French,3 MICHELIN Stars,6
+Classic French,All,61
+Seafood,1 MICHELIN Star,48
+Seafood,2 MICHELIN Stars,5
+Seafood,3 MICHELIN Stars,3
+Seafood,All,56
+Regional Cuisine,1 MICHELIN Star,43
+Regional Cuisine,2 MICHELIN Stars,4
+Regional Cuisine,3 MICHELIN Stars,1
+Regional Cuisine,All,48
+Modern British,1 MICHELIN Star,41
+Modern British,2 MICHELIN Stars,2
+Modern British,3 MICHELIN Stars,1
+Modern British,All,44
+International,1 MICHELIN Star,40
+International,2 MICHELIN Stars,2
+International,3 MICHELIN Stars,NA
+International,All,42
+Traditional Cuisine,1 MICHELIN Star,37
+Traditional Cuisine,2 MICHELIN Stars,2
+Traditional Cuisine,3 MICHELIN Stars,2
+Traditional Cuisine,All,41
+Italian,1 MICHELIN Star,26
+Italian,2 MICHELIN Stars,6
+Italian,3 MICHELIN Stars,1
+Italian,All,33
+Creative French,1 MICHELIN Star,25
+Creative French,2 MICHELIN Stars,6
+Creative French,3 MICHELIN Stars,1
+Creative French,All,32
+French,1 MICHELIN Star,24
+French,2 MICHELIN Stars,6
+French,3 MICHELIN Stars,2
+French,All,32
+Japanese,1 MICHELIN Star,30
+Japanese,2 MICHELIN Stars,1
+Japanese,3 MICHELIN Stars,NA
+Japanese,All,31
+Italian Contemporary,1 MICHELIN Star,23
+Italian Contemporary,2 MICHELIN Stars,1
+Italian Contemporary,3 MICHELIN Stars,NA
+Italian Contemporary,All,24
+Seasonal Cuisine,1 MICHELIN Star,20
+Seasonal Cuisine,2 MICHELIN Stars,3
+Seasonal Cuisine,3 MICHELIN Stars,NA
+Seasonal Cuisine,All,23
+Country cooking,1 MICHELIN Star,17
+Country cooking,2 MICHELIN Stars,3
+Country cooking,3 MICHELIN Stars,1
+Country cooking,All,21
+Innovative,1 MICHELIN Star,10
+Innovative,2 MICHELIN Stars,5
+Innovative,3 MICHELIN Stars,1
+Innovative,All,16
+Fusion,1 MICHELIN Star,13
+Fusion,2 MICHELIN Stars,NA
+Fusion,3 MICHELIN Stars,NA
+Fusion,All,13
+French Contemporary,1 MICHELIN Star,9
+French Contemporary,2 MICHELIN Stars,2
+French Contemporary,3 MICHELIN Stars,NA
+French Contemporary,All,11
+Piedmontese,1 MICHELIN Star,8
+Piedmontese,2 MICHELIN Stars,1
+Piedmontese,3 MICHELIN Stars,NA
+Piedmontese,All,9
+Indian,1 MICHELIN Star,8
+Indian,2 MICHELIN Stars,NA
+Indian,3 MICHELIN Stars,NA
+Indian,All,8
+Provençal,1 MICHELIN Star,8
+Provençal,2 MICHELIN Stars,NA
+Provençal,3 MICHELIN Stars,NA
+Provençal,All,8
+Sicilian,1 MICHELIN Star,6
+Sicilian,2 MICHELIN Stars,2
+Sicilian,3 MICHELIN Stars,NA
+Sicilian,All,8
+Vegetarian,1 MICHELIN Star,6
+Vegetarian,2 MICHELIN Stars,1
+Vegetarian,3 MICHELIN Stars,NA
+Vegetarian,All,7
+Asian Influences,1 MICHELIN Star,5
+Asian Influences,2 MICHELIN Stars,1
+Asian Influences,3 MICHELIN Stars,NA
+Asian Influences,All,6
+Chinese,1 MICHELIN Star,5
+Chinese,2 MICHELIN Stars,1
+Chinese,3 MICHELIN Stars,NA
+Chinese,All,6
+Creative British,1 MICHELIN Star,5
+Creative British,2 MICHELIN Stars,1
+Creative British,3 MICHELIN Stars,NA
+Creative British,All,6
+Organic,1 MICHELIN Star,5
+Organic,2 MICHELIN Stars,1
+Organic,3 MICHELIN Stars,NA
+Organic,All,6
+Sushi,1 MICHELIN Star,6
+Sushi,2 MICHELIN Stars,NA
+Sushi,3 MICHELIN Stars,NA
+Sushi,All,6
+Alpine,1 MICHELIN Star,4
+Alpine,2 MICHELIN Stars,NA
+Alpine,3 MICHELIN Stars,1
+Alpine,All,5
+Asian,1 MICHELIN Star,4
+Asian,2 MICHELIN Stars,1
+Asian,3 MICHELIN Stars,NA
+Asian,All,5
+Asian Contemporary,1 MICHELIN Star,5
+Asian Contemporary,2 MICHELIN Stars,NA
+Asian Contemporary,3 MICHELIN Stars,NA
+Asian Contemporary,All,5
+Japanese Contemporary,1 MICHELIN Star,4
+Japanese Contemporary,2 MICHELIN Stars,1
+Japanese Contemporary,3 MICHELIN Stars,NA
+Japanese Contemporary,All,5
+Traditional British,1 MICHELIN Star,4
+Traditional British,2 MICHELIN Stars,1
+Traditional British,3 MICHELIN Stars,NA
+Traditional British,All,5
+Tuscan,1 MICHELIN Star,5
+Tuscan,2 MICHELIN Stars,NA
+Tuscan,3 MICHELIN Stars,NA
+Tuscan,All,5
+Spanish,1 MICHELIN Star,4
+Spanish,2 MICHELIN Stars,NA
+Spanish,3 MICHELIN Stars,NA
+Spanish,All,4
+Thai,1 MICHELIN Star,4
+Thai,2 MICHELIN Stars,NA
+Thai,3 MICHELIN Stars,NA
+Thai,All,4
+Scandinavian,1 MICHELIN Star,3
+Scandinavian,2 MICHELIN Stars,NA
+Scandinavian,3 MICHELIN Stars,NA
+Scandinavian,All,3
+World Cuisine,1 MICHELIN Star,2
+World Cuisine,2 MICHELIN Stars,1
+World Cuisine,3 MICHELIN Stars,NA
+World Cuisine,All,3
+Andalusian,1 MICHELIN Star,2
+Andalusian,2 MICHELIN Stars,NA
+Andalusian,3 MICHELIN Stars,NA
+Andalusian,All,2
+British Contemporary,1 MICHELIN Star,2
+British Contemporary,2 MICHELIN Stars,NA
+British Contemporary,3 MICHELIN Stars,NA
+British Contemporary,All,2
+Calabrian,1 MICHELIN Star,2
+Calabrian,2 MICHELIN Stars,NA
+Calabrian,3 MICHELIN Stars,NA
+Calabrian,All,2
+Campanian,1 MICHELIN Star,2
+Campanian,2 MICHELIN Stars,NA
+Campanian,3 MICHELIN Stars,NA
+Campanian,All,2
+Catalan,1 MICHELIN Star,2
+Catalan,2 MICHELIN Stars,NA
+Catalan,3 MICHELIN Stars,NA
+Catalan,All,2
+Cuisine from Abruzzo,1 MICHELIN Star,2
+Cuisine from Abruzzo,2 MICHELIN Stars,NA
+Cuisine from Abruzzo,3 MICHELIN Stars,NA
+Cuisine from Abruzzo,All,2
+Greek,1 MICHELIN Star,2
+Greek,2 MICHELIN Stars,NA
+Greek,3 MICHELIN Stars,NA
+Greek,All,2
+Hungarian,1 MICHELIN Star,2
+Hungarian,2 MICHELIN Stars,NA
+Hungarian,3 MICHELIN Stars,NA
+Hungarian,All,2
+Ligurian,1 MICHELIN Star,2
+Ligurian,2 MICHELIN Stars,NA
+Ligurian,3 MICHELIN Stars,NA
+Ligurian,All,2
+Meats and Grills,1 MICHELIN Star,2
+Meats and Grills,2 MICHELIN Stars,NA
+Meats and Grills,3 MICHELIN Stars,NA
+Meats and Grills,All,2
+Mexican,1 MICHELIN Star,2
+Mexican,2 MICHELIN Stars,NA
+Mexican,3 MICHELIN Stars,NA
+Mexican,All,2
+Portuguese,1 MICHELIN Star,2
+Portuguese,2 MICHELIN Stars,NA
+Portuguese,3 MICHELIN Stars,NA
+Portuguese,All,2
+Swedish,1 MICHELIN Star,2
+Swedish,2 MICHELIN Stars,NA
+Swedish,3 MICHELIN Stars,NA
+Swedish,All,2
+Vegan,1 MICHELIN Star,2
+Vegan,2 MICHELIN Stars,NA
+Vegan,3 MICHELIN Stars,NA
+Vegan,All,2
+Apulian,1 MICHELIN Star,1
+Apulian,2 MICHELIN Stars,NA
+Apulian,3 MICHELIN Stars,NA
+Apulian,All,1
+Basque,1 MICHELIN Star,1
+Basque,2 MICHELIN Stars,NA
+Basque,3 MICHELIN Stars,NA
+Basque,All,1
+Belgian,1 MICHELIN Star,1
+Belgian,2 MICHELIN Stars,NA
+Belgian,3 MICHELIN Stars,NA
+Belgian,All,1
+Californian,1 MICHELIN Star,1
+Californian,2 MICHELIN Stars,NA
+Californian,3 MICHELIN Stars,NA
+Californian,All,1
+Colombian,1 MICHELIN Star,1
+Colombian,2 MICHELIN Stars,NA
+Colombian,3 MICHELIN Stars,NA
+Colombian,All,1
+Corsican,1 MICHELIN Star,1
+Corsican,2 MICHELIN Stars,NA
+Corsican,3 MICHELIN Stars,NA
+Corsican,All,1
+Cuisine from Romagna,1 MICHELIN Star,1
+Cuisine from Romagna,2 MICHELIN Stars,NA
+Cuisine from Romagna,3 MICHELIN Stars,NA
+Cuisine from Romagna,All,1
+Danish,1 MICHELIN Star,1
+Danish,2 MICHELIN Stars,NA
+Danish,3 MICHELIN Stars,NA
+Danish,All,1
+Emilian,1 MICHELIN Star,1
+Emilian,2 MICHELIN Stars,NA
+Emilian,3 MICHELIN Stars,NA
+Emilian,All,1
+Finnish,1 MICHELIN Star,1
+Finnish,2 MICHELIN Stars,NA
+Finnish,3 MICHELIN Stars,NA
+Finnish,All,1
+Galician,1 MICHELIN Star,1
+Galician,2 MICHELIN Stars,NA
+Galician,3 MICHELIN Stars,NA
+Galician,All,1
+Grills,1 MICHELIN Star,1
+Grills,2 MICHELIN Stars,NA
+Grills,3 MICHELIN Stars,NA
+Grills,All,1
+Home Cooking,1 MICHELIN Star,1
+Home Cooking,2 MICHELIN Stars,NA
+Home Cooking,3 MICHELIN Stars,NA
+Home Cooking,All,1
+Irish,1 MICHELIN Star,1
+Irish,2 MICHELIN Stars,NA
+Irish,3 MICHELIN Stars,NA
+Irish,All,1
+Israeli,1 MICHELIN Star,1
+Israeli,2 MICHELIN Stars,NA
+Israeli,3 MICHELIN Stars,NA
+Israeli,All,1
+North African,1 MICHELIN Star,1
+North African,2 MICHELIN Stars,NA
+North African,3 MICHELIN Stars,NA
+North African,All,1
+Peruvian,1 MICHELIN Star,1
+Peruvian,2 MICHELIN Stars,NA
+Peruvian,3 MICHELIN Stars,NA
+Peruvian,All,1
+Russian,1 MICHELIN Star,1
+Russian,2 MICHELIN Stars,NA
+Russian,3 MICHELIN Stars,NA
+Russian,All,1
+Sardinian,1 MICHELIN Star,1
+Sardinian,2 MICHELIN Stars,NA
+Sardinian,3 MICHELIN Stars,NA
+Sardinian,All,1
+Scottish,1 MICHELIN Star,1
+Scottish,2 MICHELIN Stars,NA
+Scottish,3 MICHELIN Stars,NA
+Scottish,All,1
+Sharing,1 MICHELIN Star,1
+Sharing,2 MICHELIN Stars,NA
+Sharing,3 MICHELIN Stars,NA
+Sharing,All,1
+Swiss,1 MICHELIN Star,1
+Swiss,2 MICHELIN Stars,NA
+Swiss,3 MICHELIN Stars,NA
+Swiss,All,1
+Venetian,1 MICHELIN Star,1
+Venetian,2 MICHELIN Stars,NA
+Venetian,3 MICHELIN Stars,NA
+Venetian,All,1
+Castilian,1 MICHELIN Star,NA
+Castilian,2 MICHELIN Stars,1
+Castilian,3 MICHELIN Stars,NA
+Castilian,All,1
