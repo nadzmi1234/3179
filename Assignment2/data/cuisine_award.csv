@@ -1,0 +1,25 @@
+Cuisine,Award,value,rank
+Modern Cuisine,1 MICHELIN Star,920,1
+Creative,1 MICHELIN Star,498,2
+Classic Cuisine,1 MICHELIN Star,119,3
+Modern French,1 MICHELIN Star,95,4
+Contemporary,1 MICHELIN Star,94,5
+Creative,2 MICHELIN Stars,186,1
+Modern Cuisine,2 MICHELIN Stars,87,2
+Classic Cuisine,2 MICHELIN Stars,21,3
+Contemporary,2 MICHELIN Stars,16,4
+Modern French,2 MICHELIN Stars,16,5
+Creative,3 MICHELIN Stars,52,1
+Modern Cuisine,3 MICHELIN Stars,23,2
+Classic French,3 MICHELIN Stars,6,3
+Contemporary,3 MICHELIN Stars,5,4
+Classic Cuisine,3 MICHELIN Stars,3,5
+Modern Cuisine,All,1030,1
+Creative,All,736,2
+Classic Cuisine,All,143,3
+Contemporary,All,115,4
+Modern French,All,113,5
+Other,1 MICHELIN Star,739,6
+Other,2 MICHELIN Stars,87,6
+Other,3 MICHELIN Stars,19,6
+Other,All,849,6
